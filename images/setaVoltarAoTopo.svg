@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 13" width="20" height="13">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #ffffff;stroke-width: 3 } 
+	</style>
+	<path id="Retângulo 5 copiar 7" class="shp0" d="M1 11.92L9.5 3L18 11.92" />
+</svg>
